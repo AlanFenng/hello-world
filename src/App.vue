@@ -8,6 +8,7 @@
     <div>
       haode
     </div>
+    <div>3</div>
   </div>
 </template>
 
