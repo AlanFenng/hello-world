@@ -5,6 +5,9 @@
     <div>
       dfdfdfd
     </div>
+    <div>
+      haode
+    </div>
   </div>
 </template>
 
